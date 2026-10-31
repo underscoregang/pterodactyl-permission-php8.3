@@ -1,4 +1,4 @@
-# pterodactyl-permission-php8.3# Pterodactyl Permissions Troubleshooting ~ (PHP 8.3)
+# Pterodactyl Permissions Troubleshooting ~ (PHP 8.3)
 
 ## Error
 
